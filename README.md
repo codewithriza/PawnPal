@@ -20,7 +20,7 @@
 <div align="center">
   <table>
     <tr>
-      <td><img height="300" src="images/pawnpal-demo.gif"></td>
+      <td><img height="500" src="Images/pawnpal.png"></td>
     </tr>
   </table>
 </div>
