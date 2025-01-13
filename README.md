@@ -87,5 +87,5 @@ PawnPal is licensed under the [MIT License](LICENSE). Feel free to use, modify, 
 ---
 
 <div align="center">
-✨ Happy Chess Playing with **PawnPal**! ✨
+✨ Happy Chess Playing with <b>PawnPal</b>! ✨
 </div>
